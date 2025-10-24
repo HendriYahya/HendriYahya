@@ -13,7 +13,7 @@ Skills :
   
 How to Reach Me :
 - Email: hendriyahya542@gmail.com
-- LinkedIn:-
+- LinkedIn:https://www.linkedin.com/in/hendri-yahya-a8146038b
 
 Contributions
 I'm open to collaboration and contributions to open-source projects. If you're interested in working together or have any questions, feel free to reach out to me!
